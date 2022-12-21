@@ -1,13 +1,13 @@
 /******************************************************************************
 * File Name:   main.c
 *
-* Description: This is the source code for the RutDevKit-PSoC62_Arduino_ADC_HAL
+* Description: This is the source code for the RDK3_Arduino_ADC_HAL
 *              Application for ModusToolbox.
 *
 * Related Document: See README.md
 *
 *
-*  Created on: 2021-05-28
+*  Created on: 2022-12-21
 *  Company: Rutronik Elektronische Bauelemente GmbH
 *  Address: Jonavos g. 30, Kaunas 44262, Lithuania
 *  Author: GDR
